@@ -1,2 +1,3 @@
 # t_portfolio
-Responsive portfolio built with Tailwind CSS, demonstrating clean and modern design principles.
+Developed an industrial company website utilizing Tailwind CSS, ensuring sleek
+and responsive design and seamless navigation for enhanced user experience and brand representation
